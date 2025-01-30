@@ -1,6 +1,9 @@
 <h1 align="center">Calculadora Simples</h1>
 <br>
-<img src="https://img.shields.io/badge/STATUS-FINALIZADO-green" alt="Status: Finalizado">
+<div align="center">
+<img src="https://img.shields.io/badge/STATUS-FINALIZADO-green" alt="Status: Finalizado"> 
+ </div>
+<br>
 <br>
 
 Uma calculadora básica desenvolvida com HTML, CSS e JavaScript. Este projeto foi criado para praticar manipulação do DOM e lógica de programação.
@@ -36,6 +39,9 @@ Utilize os botões para realizar os cálculos desejados.
 <h2>Captura de Tela 📷</h2>
 
 ![Captura de tela 2025-01-30 101602](https://github.com/user-attachments/assets/8452b2aa-d52d-49bf-b0cc-9ab4e9bce4c9)
+<br>
+<br>
+<a href="https://calculadora-drab-zeta.vercel.app/">Site para visualizar a calculadora</a>
 
 
 <h2>Responsividade 📌</h2>
